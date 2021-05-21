@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="family_tv">Family</string>
+    <string name="friends_tv">Friends</string>
+    <string name="tutors_tv">Tutors</string>
+    <string name="colleagues_tv">Colleagues</string>
+    <string name="family_contact_alert_title">Add new Family Contact</string>
+</resources>
